@@ -1,6 +1,6 @@
 {
   "name": "@arki/slugify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "URL-safe slug generation with multi-language transliteration rules — extends @sindresorhus/slugify with curated rule sets for Arabic, Armenian, Cyrillic, Greek, and 15+ other scripts.",
   "license": "MIT",
   "repository": {
@@ -32,6 +32,12 @@
   },
   "files": [
     "dist/**",
+    "src/**",
+    "!src/**/*.test.*",
+    "!src/**/*.spec.*",
+    "!src/**/tests/**",
+    "!src/**/test/**",
+    "!src/**/__tests__/**",
     "README.md",
     "LICENSE",
     "package.json"

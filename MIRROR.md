@@ -1,6 +1,6 @@
 # @arki/slugify
 
-Published version: **0.0.1**
+Published version: **0.0.2**
 
 This repository is a **read-only mirror** of the [@arki/slugify](https://www.npmjs.com/package/@arki/slugify) npm package.
 
